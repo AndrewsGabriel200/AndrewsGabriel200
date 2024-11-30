@@ -1,8 +1,12 @@
+
+
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1679083748046?e=1738195200&v=beta&t=7tfIY6aIYkNAayRg2I2eVpxnhmY0qU0RPRPIW6t-mMA)]()
+
 ## Olá! Eu sou o Andrews Gabriel
+<img align="right" alt="Coding" width="315" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 
 - 🔭 Atualmente sou Estagiário de Suporte na AFEAM (Agência de Fomento do Estado do Amazonas).
 - 🤓 Estou Estudando Análise e Desenvolvimento de Sistemas na FAMETRO (Faculdade Metropolitana de Manaus).
-- 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
