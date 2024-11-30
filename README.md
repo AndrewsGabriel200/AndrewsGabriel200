@@ -3,7 +3,7 @@
 [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)]()
 
 ## Olá! Eu sou o Andrews Gabriel
-<img align="right" alt="Coding" width="300" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
+<img align="right" alt="Coding" width="200" src="https://www.kingofdigitalmarketing.com/blog/images/PPC%20Services%20in%20Delhi%20%2024%20Hour%20Support.gif"/>
 
 - 🔭 Atualmente sou Estagiário de Suporte na AFEAM (Agência de Fomento do Estado do Amazonas).
 - 🤓 Estou Estudando Análise e Desenvolvimento de Sistemas na FAMETRO (Faculdade Metropolitana de Manaus).
